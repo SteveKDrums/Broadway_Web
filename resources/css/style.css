@@ -1,0 +1,30 @@
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+   top: 50px;
+}
+
+h1, nav {
+   position: absolute;
+   text-align: center;
+   top: 1px;
+   left: 0;
+   width: 100%;
+   font-family: Helvetica;
+   font-size: 70px;
+   font-weight: bold;
+   color: white;
+}
+
+nav {
+  top: 150px;
+  display: block;
+  width: 60px;
+  left: 600px;
+}
+
+nav, a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
