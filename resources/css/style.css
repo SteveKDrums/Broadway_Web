@@ -4,6 +4,15 @@
    top: 50px;
 }
 
+.newyork {
+   position: relative;
+   width: 100%; /* for IE 6 */
+   top: 20px;
+}
+
+#ny {
+
+}
 h1, nav {
    position: absolute;
    text-align: center;
@@ -27,6 +36,31 @@ nav, a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+
+.process, .newyork{
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+}
+
+#one {
+  font-size: 32px;
+}
+
+#two {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.newyork h1 {
+  font-size: 23px;
+  top: 25px;
+
 }
 
 footer {
