@@ -28,3 +28,11 @@ nav, a {
   font-size: 18px;
   color: white;
 }
+
+footer {
+font-family: Helvetica;
+font-size: 11px;
+color: white;
+background-color: dimgray;
+
+}
